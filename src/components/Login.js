@@ -14,7 +14,7 @@ function Login() {
             and The Disney Bundle will increase by $1.
                 </Description>
                 <CTALogoTwo src="/images/cta-logo-two.png" />
-                <Owner>@Daksh Patidar | 2023</Owner>
+                <Owner>@Pranjal Bansal | 2023</Owner>
             </CTA>
         </Container>
     )
